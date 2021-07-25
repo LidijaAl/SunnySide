@@ -10,7 +10,6 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
  - [Links](#links)
 - [Built with](#built-with)
 
-
 ## Overview
 
 ### The challenge
@@ -20,11 +19,6 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 ### Screenshot
 
 ![image](https://user-images.githubusercontent.com/80312870/126895552-685c4c4f-bc14-4938-8a5f-778ce45a859a.png)
-
-### Links
-
-- Solution URL: ()
-
 
 ### Built with
 
