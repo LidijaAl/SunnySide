@@ -8,13 +8,13 @@
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
           font-family: 'Barlow', sans-serif;
-          
-          
-  
-}
+ scroll-behavior: smooth;
+} 
+
 body{
   background-color: hsl(0, 20%, 96%);
-}
+} 
+
 /* HEADER---------------------------------------------------*/
 
 header {
